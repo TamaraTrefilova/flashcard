@@ -1,0 +1,12 @@
+#javascript, #operators, #naming, #variables, #functions, #arguments, #parameters, #return, #chaining, #strings, #boolean  {
+  display: none;
+}
+
+.clickable, .clickable1, .clickable2, .clickable3, .clickable4, .clickable5, .clickable6, .clickable7, .clickable8, .clickable9, .clickable10{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover, .clickable1, .clickable2, .clickable3, .clickable4, .clickable5, .clickable6, .clickable7, .clickable8, .clickable9, .clickable10 {
+  text-decoration: underline;
+}
